@@ -1,0 +1,810 @@
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - GENERAL FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? GENERAL",? UK - GENERAL FHD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/386
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK ? BBC 1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC 1 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/387
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK ? BBC 2 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC 2 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/388
+#EXTINF:-1 tvg-id="bbc3.uk" tvg-name="UK ? BBC 3/CBBC FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC 3/CBBC FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/389
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK ? BBC 4/CBEEBIES FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC 4/CBEEBIES FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/390
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="UK ? BBC SCOTLAND FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC SCOTLAND FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/391
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK ? ITV 1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 1 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/392
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ? ITV 2 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 2 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/393
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK ? ITV 3 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 3 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/394
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK ? ITV 4 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 4 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/395
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK ? ITV BE FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV BE FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/396
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK ? CHANNEL 4 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="UK ? GENERAL",UK ? CHANNEL 4 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/397
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK ? CHANNEL 5 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL5.png" group-title="UK ? GENERAL",UK ? CHANNEL 5 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/398
+#EXTINF:-1 tvg-id="" tvg-name="UK ? GB NEWS FHD" tvg-logo="" group-title="UK ? GENERAL",UK ? GB NEWS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/214661
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK ? E4 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="UK ? GENERAL",UK ? E4 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/399
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK ? CBBC FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBBC-1.png" group-title="UK ? GENERAL",UK ? CBBC FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/400
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK ? 4 SEVEN FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="UK ? GENERAL",UK ? 4 SEVEN FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/401
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK ? ALIBI FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ALIBIHD.png" group-title="UK ? GENERAL",UK ? ALIBI FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/402
+#EXTINF:-1 tvg-id="" tvg-name="UK ? TALK TV FHD" tvg-logo="" group-title="UK ? GENERAL",UK ? TALK TV FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/214659
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - GENERAL SD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? GENERAL",? UK - GENERAL SD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/403
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK ? BBC1 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC1 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/404
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK ? BBC2 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC2 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/405
+#EXTINF:-1 tvg-id="bbc3.uk" tvg-name="UK ? BBC3/CBBC SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC3/CBBC SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/406
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK ? BBC4/CBEEBIES SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC4/CBEEBIES SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/407
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK ? BBC PARLIAMENT SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? GENERAL",UK ? BBC PARLIAMENT SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/408
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK ? ITV 1 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 1 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/409
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ? ITV 2 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 2 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/410
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK ? ITV 3 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 3 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/411
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK ? ITV 4 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV 4 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/412
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK ? ITV BE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ITV.png" group-title="UK ? GENERAL",UK ? ITV BE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/413
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK ? CHANNEL 4 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="UK ? GENERAL",UK ? CHANNEL 4 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/414
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK ? CHANNEL 5 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL5.png" group-title="UK ? GENERAL",UK ? CHANNEL 5 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/415
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="UK ? CITV SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CITV.png" group-title="UK ? GENERAL",UK ? CITV SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/416
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK ? ALIBI SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ALIBIHD.png" group-title="UK ? GENERAL",UK ? ALIBI SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/417
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="? UK - NEWS FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? NEWS",? UK - NEWS FHD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/418
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK ? BBC NEWS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? NEWS",UK ? BBC NEWS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/419
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK ? BBC WORLD NEWS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? NEWS",UK ? BBC WORLD NEWS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/420
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK ? BLOOMBERG FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BLOOMBERG-1.png" group-title="UK ? NEWS",UK ? BLOOMBERG FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/421
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK ? CNN FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CNN.png" group-title="UK ? NEWS",UK ? CNN FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/422
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="UK ? FRANCE 24 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/FRANCE24.png" group-title="UK ? NEWS",UK ? FRANCE 24 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/423
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK ? RT NEWS FHD" tvg-logo="http://logo.panel.cx/logo/rt.png" group-title="UK ? NEWS",UK ? RT NEWS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/426
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK ? SKY NEWS FHD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/SKY-NEWS.png" group-title="UK ? NEWS",UK ? SKY NEWS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/428
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="? UK - NEWS SD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? NEWS",? UK - NEWS SD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/429
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK ? BBC NEWS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? NEWS",UK ? BBC NEWS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/430
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK ? BBC WORLD NEWS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="UK ? NEWS",UK ? BBC WORLD NEWS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/431
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK ? BLOOMBERG SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BLOOMBERG-1.png" group-title="UK ? NEWS",UK ? BLOOMBERG SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/432
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK ? CNBC SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CNBC.png" group-title="UK ? NEWS",UK ? CNBC SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/433
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK ? CNN SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CNN.png" group-title="UK ? NEWS",UK ? CNN SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/434
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK ? EURO NEWS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/EURONEWS-1.png" group-title="UK ? NEWS",UK ? EURO NEWS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/435
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK ? FOX NEWS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FOX.png" group-title="UK ? NEWS",UK ? FOX NEWS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/436
+#EXTINF:-1 tvg-id="france24english.fr" tvg-name="UK ? FRANCE 24 EN SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/FRANCE24.png" group-title="UK ? NEWS",UK ? FRANCE 24 EN SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/437
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK ? AL JAZEERA EN SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/ALJAZEERA.png" group-title="UK ? NEWS",UK ? AL JAZEERA EN SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/438
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK ? SKY NEWS SD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/SKY-NEWS.png" group-title="UK ? NEWS",UK ? SKY NEWS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/440
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="? UK - SPORTS FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? SPORTS",? UK - SPORTS FHD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/441
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK ? SKY SPORTS NEWS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS NEWS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/442
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK ? SKY SPORTS ACTION FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS ACTION FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/443
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK ? SKY SPORTS FOOTBALL FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS FOOTBALL FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/444
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK ? SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS PREMIER LEAGUE FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/445
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK ? SKY SPORTS MAIN EVENT FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS MAIN EVENT FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/446
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK ? SKY SPORT MIX FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORT MIX FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/447
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK ? SKY SPORTS RACING FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS RACING FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/448
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK ? SKY SPORTS ARENA FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS ARENA FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/449
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK ? SKY SPORTS CRICKET FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS CRICKET FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/450
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK ? SKY SPORTS F1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS F1 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/451
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK ? SKY SPORTS GOLF FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS GOLF FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/452
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK ? BT SPORTS ESPN FHD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png" group-title="UK ? SPORTS",UK ? BT SPORTS ESPN FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/453
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK ? BT SPORTS 1 FHD" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png" group-title="UK ? SPORTS",UK ? BT SPORTS 1 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/454
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK ? BT SPORTS 2 FHD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png" group-title="UK ? SPORTS",UK ? BT SPORTS 2 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/455
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK ? BT SPORTS 3 FHD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png" group-title="UK ? SPORTS",UK ? BT SPORTS 3 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/456
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 4 FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png" group-title="UK ? SPORTS",UK ? BT SPORTS 4 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92790
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 5 FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_5.png" group-title="UK ? SPORTS",UK ? BT SPORTS 5 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92792
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK ? EUROSPORTS 1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="UK ? SPORTS",UK ? EUROSPORTS 1 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/457
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK ? EUROSPORTS 2 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="UK ? SPORTS",UK ? EUROSPORTS 2 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/458
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK ? FREE SPORTS FHD" tvg-logo="http://logo.panel.cx/logo/UK/FREESPORTS.png" group-title="UK ? SPORTS",UK ? FREE SPORTS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/459
+#EXTINF:-1 tvg-id="" tvg-name="UK ? LFC FHD" tvg-logo="http://logo.panel.cx/logo/UK/lfc.png" group-title="UK ? SPORTS",UK ? LFC FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/460
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK ? PREMIER SPORTS 1 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PREMIERSPORT-1.png" group-title="UK ? SPORTS",UK ? PREMIER SPORTS 1 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/461
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK ? PREMIER SPORTS 2 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PREMIERSPORT-1.png" group-title="UK ? SPORTS",UK ? PREMIER SPORTS 2 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/462
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK ? RACING UK FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RACINGUKHD-1.png" group-title="UK ? SPORTS",UK ? RACING UK FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/463
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK ? MUTV FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MUTV-1.png" group-title="UK ? SPORTS",UK ? MUTV FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/464
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - SPORTS SD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? SPORTS",? UK - SPORTS SD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/465
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK ? SKY SPORTS NEWS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS NEWS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/466
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK ? SKY SPORTS ACTION SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS ACTION SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/467
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK ? SKY SPORTS FOOTBALL SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS FOOTBALL SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/468
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK ? SKY SPORTS MAIN EVENT SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS MAIN EVENT SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/469
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK ? SKY SPORTS PREMIER LEAGUE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS PREMIER LEAGUE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/470
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK ? SKY SPORTS RACING SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RACINGUKHD-1.png" group-title="UK ? SPORTS",UK ? SKY SPORTS RACING SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/471
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK ? SKY SPORTS ARENA SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS ARENA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/472
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK ? SKY SPORTS CRICKET SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS CRICKET SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/473
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK ? SKY SPORTS F1 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS F1 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/474
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK ? SKY SPORT MIX SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORT MIX SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/475
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK ? SKY SPORTS GOLF SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? SPORTS",UK ? SKY SPORTS GOLF SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/476
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS ESPN SD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png" group-title="UK ? SPORTS",UK ? BT SPORTS ESPN SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/477
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK ? BT SPORTS 1 SD" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png" group-title="UK ? SPORTS",UK ? BT SPORTS 1 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/478
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK ? BT SPORTS 2 SD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png" group-title="UK ? SPORTS",UK ? BT SPORTS 2 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/479
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK ? BT SPORTS 3 SD" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png" group-title="UK ? SPORTS",UK ? BT SPORTS 3 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/480
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 4 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png" group-title="UK ? SPORTS",UK ? BT SPORTS 4 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92789
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 5 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_5.png" group-title="UK ? SPORTS",UK ? BT SPORTS 5 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92791
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 6 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_6.png" group-title="UK ? SPORTS",UK ? BT SPORTS 6 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92793
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 7 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_7.png" group-title="UK ? SPORTS",UK ? BT SPORTS 7 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92794
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 8 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_8.png" group-title="UK ? SPORTS",UK ? BT SPORTS 8 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92795
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 9 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_9.png" group-title="UK ? SPORTS",UK ? BT SPORTS 9 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92796
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BT SPORTS 10 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_10.png" group-title="UK ? SPORTS",UK ? BT SPORTS 10 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/92797
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK ? EUROSPORT 1 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="UK ? SPORTS",UK ? EUROSPORT 1 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/482
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK ? EUROSPORT 2 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="UK ? SPORTS",UK ? EUROSPORT 2 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/483
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK ? BOX NATION SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BOXNATION-1.png" group-title="UK ? SPORTS",UK ? BOX NATION SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/484
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK ? LFC TV SD" tvg-logo="http://logo.panel.cx/logo/UK/lfc.png" group-title="UK ? SPORTS",UK ? LFC TV SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/486
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK ? MUTV SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MUTV-1.png" group-title="UK ? SPORTS",UK ? MUTV SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/487
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK ? PREMIER SPORTS 1 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PREMIERSPORT-1.png" group-title="UK ? SPORTS",UK ? PREMIER SPORTS 1 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/488
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK ? PREMIER SPORTS 2 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PREMIERSPORT-1.png" group-title="UK ? SPORTS",UK ? PREMIER SPORTS 2 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/489
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - MOVIES FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? MOVIES",? UK - MOVIES FHD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/490
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK ? SKY CINEMA ACTION FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA ACTION FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/491
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK ? SKY CINEMA COMEDY FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA COMEDY FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/492
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA FAMILY FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA FAMILY FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/493
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA PREMIER FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA PREMIER FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/494
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA GREATS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA GREATS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/495
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA SCI-FI & HORROR FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA SCI-FI & HORROR FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/496
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA THRILLER FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA THRILLER FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/498
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA DRAMA FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA DRAMA FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/499
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA HITS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA HITS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/500
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK ? SKY CINEMA ANIMATION FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/SKYCINEMA.png" group-title="UK ? MOVIES",UK ? SKY CINEMA ANIMATION FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/501
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK ? TCM FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/AMC-1.png" group-title="UK ? MOVIES",UK ? TCM FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/502
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK ? AMC FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/AMC-1.png" group-title="UK ? MOVIES",UK ? AMC FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/503
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK ? FILM 4 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FILM4-1.png" group-title="UK ? MOVIES",UK ? FILM 4 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/504
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - MOVIES SD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SONYMOVIES.png" group-title="UK ? MOVIES",? UK - MOVIES SD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/505
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK ? SKY CINEMA ACTION SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA ACTION SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/506
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK ? SKY CINEMA COMEDY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA COMEDY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/507
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA FAMILY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA FAMILY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/508
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA PREMIERE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA PREMIERE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/509
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA GREATS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA GREATS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/510
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA SCI-FI & HORROR SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA SCI-FI & HORROR SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/511
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA THRILLER SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA THRILLER SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/513
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA DRAMA SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA DRAMA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/514
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY CINEMA HITS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? MOVIES",UK ? SKY CINEMA HITS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/515
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK ? TCM SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/TCM-1.png" group-title="UK ? MOVIES",UK ? TCM SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/516
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK ? AMC SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/AMC-1.png" group-title="UK ? MOVIES",UK ? AMC SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/517
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK ? FILM 4 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FILM4-1.png" group-title="UK ? MOVIES",UK ? FILM 4 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/518
+#EXTINF:-1 tvg-id="bbcentertainment.uk" tvg-name="? UK - ENTERTAINMENT FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? ENTERTAINMENT",? UK - ENTERTAINMENT FHD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/519
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK ? EDEN FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/EDEN.png" group-title="UK ? ENTERTAINMENT",UK ? EDEN FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/520
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK ? GOLD FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/GOLD.png" group-title="UK ? ENTERTAINMENT",UK ? GOLD FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/521
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK ? DAVE FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DAVE.png" group-title="UK ? ENTERTAINMENT",UK ? DAVE FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/522
+#EXTINF:-1 tvg-id="" tvg-name="UK ? E! ENTERTAINMENT FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/E!.png" group-title="UK ? ENTERTAINMENT",UK ? E! ENTERTAINMENT FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/523
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK ? MORE 4 FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MORE4-1.png" group-title="UK ? ENTERTAINMENT",UK ? MORE 4 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/524
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK ? QUEST FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/QUEST.png" group-title="UK ? ENTERTAINMENT",UK ? QUEST FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/525
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="UK ? SKY SHOWCASE FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY SHOWCASE FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/526
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK ? STV FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/STV.png" group-title="UK ? ENTERTAINMENT",UK ? STV FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/527
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UK ? UTV FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UTV.png" group-title="UK ? ENTERTAINMENT",UK ? UTV FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/528
+#EXTINF:-1 tvg-id="" tvg-name="UK ? UNIVERSAL FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UNIVERSAL.png" group-title="UK ? ENTERTAINMENT",UK ? UNIVERSAL FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/529
+#EXTINF:-1 tvg-id="" tvg-name="UK ? WATCH FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/WATCH-1.png" group-title="UK ? ENTERTAINMENT",UK ? WATCH FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/530
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK ? SKY ATLANTIC FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY ATLANTIC FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/531
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK ? SKY ARTS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY ARTS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/532
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK ? SKY WITNESS FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY WITNESS FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/533
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK ? TLC FHD" tvg-logo="http://logo.panel.cx/logo/UK/TLC.png" group-title="UK ? ENTERTAINMENT",UK ? TLC FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/534
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK ? COMEDY CENTRAL FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/COMEDYCENTRAL.png" group-title="UK ? ENTERTAINMENT",UK ? COMEDY CENTRAL FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/535
+#EXTINF:-1 tvg-id="bbcentertainment.uk" tvg-name="? UK - ENTERTAINMENT SD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? ENTERTAINMENT",? UK - ENTERTAINMENT SD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/536
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SKY TWO SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY TWO SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/538
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK ? 4 SEVEN SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="UK ? ENTERTAINMENT",UK ? 4 SEVEN SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/539
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK ? 5 SELECT SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/5SELECT.png" group-title="UK ? ENTERTAINMENT",UK ? 5 SELECT SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/540
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK ? 5 STAR SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/5STAR-1.png" group-title="UK ? ENTERTAINMENT",UK ? 5 STAR SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/541
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK ? 5 USA SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/5USA.png" group-title="UK ? ENTERTAINMENT",UK ? 5 USA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/542
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK ? BLAZE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BLAZE.png" group-title="UK ? ENTERTAINMENT",UK ? BLAZE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/544
+#EXTINF:-1 tvg-id="" tvg-name="UK ? CBS ACTION SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" group-title="UK ? ENTERTAINMENT",UK ? CBS ACTION SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/545
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK ? CBS DRAMA SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" group-title="UK ? ENTERTAINMENT",UK ? CBS DRAMA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/546
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK ? CBS REALITY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" group-title="UK ? ENTERTAINMENT",UK ? CBS REALITY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/547
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK ? CHALLENGE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHALLENGE.png" group-title="UK ? ENTERTAINMENT",UK ? CHALLENGE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/548
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK ? DAVE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DAVE.png" group-title="UK ? ENTERTAINMENT",UK ? DAVE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/549
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK ? DMAX SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DMAX.png" group-title="UK ? ENTERTAINMENT",UK ? DMAX SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/550
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK ? DRAMA SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DRAMA-1.png" group-title="UK ? ENTERTAINMENT",UK ? DRAMA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/551
+#EXTINF:-1 tvg-id="e4extra.uk" tvg-name="UK ? E4 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CHANNEL4.png" group-title="UK ? ENTERTAINMENT",UK ? E4 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/552
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK ? EDEN SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/EDEN.png" group-title="UK ? ENTERTAINMENT",UK ? EDEN SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/553
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK ? GOLD SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/GOLD.png" group-title="UK ? ENTERTAINMENT",UK ? GOLD SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/554
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK ? MORE 4 SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MORE4-1.png" group-title="UK ? ENTERTAINMENT",UK ? MORE 4 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/555
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="UK ? PBS AMERICA SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PBSAMERICA.png" group-title="UK ? ENTERTAINMENT",UK ? PBS AMERICA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/556
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK ? PICK TV SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/PICKTV-1.png" group-title="UK ? ENTERTAINMENT",UK ? PICK TV SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/557
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK ? QUEST SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/QUEST.png" group-title="UK ? ENTERTAINMENT",UK ? QUEST SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/558
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK ? QUEST RED SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/QUEST.png" group-title="UK ? ENTERTAINMENT",UK ? QUEST RED SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/559
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK ? REALLY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/REALLY.png" group-title="UK ? ENTERTAINMENT",UK ? REALLY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/560
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SONY MOVIES SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SONYMOVIES.png" group-title="UK ? ENTERTAINMENT",UK ? SONY MOVIES SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/561
+#EXTINF:-1 tvg-id="" tvg-name="UK ? UNIVERSAL CHANNEL SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UNIVERSAL.png" group-title="UK ? ENTERTAINMENT",UK ? UNIVERSAL CHANNEL SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/565
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UK ? UTV ULSTER SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UTV.png" group-title="UK ? ENTERTAINMENT",UK ? UTV ULSTER SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/566
+#EXTINF:-1 tvg-id="" tvg-name="UK ? WATCH SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/WATCH-1.png" group-title="UK ? ENTERTAINMENT",UK ? WATCH SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/567
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK ? YESTERDAY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/YESTERDAY-1.png" group-title="UK ? ENTERTAINMENT",UK ? YESTERDAY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/568
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK ? SKY ATLANTIC SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY ATLANTIC SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/569
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK ? SKY ARTS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY ARTS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/570
+#EXTINF:-1 tvg-id="qvc.uk" tvg-name="UK ? QVC SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/QVC-1.png" group-title="UK ? ENTERTAINMENT",UK ? QVC SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/571
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK ? SKY WITNESS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" group-title="UK ? ENTERTAINMENT",UK ? SKY WITNESS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/572
+#EXTINF:-1 tvg-id="qvcstyle.uk" tvg-name="UK ? QVC STYLE SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/QVC-1.png" group-title="UK ? ENTERTAINMENT",UK ? QVC STYLE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/573
+#EXTINF:-1 tvg-id="qvcextra.uk" tvg-name="UK ? QVC EXTRA SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/QVC-1.png" group-title="UK ? ENTERTAINMENT",UK ? QVC EXTRA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/574
+#EXTINF:-1 tvg-id="qvcbeauty.uk" tvg-name="UK ? QVC BEAUTY SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/QVC-1.png" group-title="UK ? ENTERTAINMENT",UK ? QVC BEAUTY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/575
+#EXTINF:-1 tvg-id="" tvg-name="UK ? JML SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/JML.png" group-title="UK ? ENTERTAINMENT",UK ? JML SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/576
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK ? TLC SD" tvg-logo="http://logo.panel.cx/logo/UK/TLC.png" group-title="UK ? ENTERTAINMENT",UK ? TLC SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/577
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK ? COMEDY CENTRAL SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/COMEDYCENTRAL.png" group-title="UK ? ENTERTAINMENT",UK ? COMEDY CENTRAL SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/578
+#EXTINF:-1 tvg-id="" tvg-name="UK ? E! ENTERTAINMENT SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/E!.png" group-title="UK ? ENTERTAINMENT",UK ? E! ENTERTAINMENT SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/580
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - COOKING ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? ENTERTAINMENT",? UK - COOKING ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/581
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK ? FOOD NETWORK" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FOODNETWORK.png" group-title="UK ? ENTERTAINMENT",UK ? FOOD NETWORK
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/582
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="? UK - DOCUMENTARY FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? DOCUMENTARY",? UK - DOCUMENTARY FHD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/584
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK ? SKY DOCUMENTARIES FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/Sky_Documentaries.png" group-title="UK ? DOCUMENTARY",UK ? SKY DOCUMENTARIES FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/585
+#EXTINF:-1 tvg-id="" tvg-name="UK ? DISCOVERY FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" group-title="UK ? DOCUMENTARY",UK ? DISCOVERY FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/586
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK ? NAT GEO FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOGRAPHIC-1.png" group-title="UK ? DOCUMENTARY",UK ? NAT GEO FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/587
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK ? NAT GEO WILD FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOWILD-1.png" group-title="UK ? DOCUMENTARY",UK ? NAT GEO WILD FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/588
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK ? ANIMAL PLANET FHD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Animal_Planet.png" group-title="UK ? DOCUMENTARY",UK ? ANIMAL PLANET FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/589
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK ? CRIME&INVESTIGATION FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="UK ? DOCUMENTARY",UK ? CRIME&INVESTIGATION FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/590
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HISTORY FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORYHD-1.png" group-title="UK ? DOCUMENTARY",UK ? HISTORY FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/591
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK ? HISTORY 2 FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORY-2-1.png" group-title="UK ? DOCUMENTARY",UK ? HISTORY 2 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/592
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PARAMOUNT NETWORK FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PARAMOUNTHD.png" group-title="UK ? DOCUMENTARY",UK ? PARAMOUNT NETWORK FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/593
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="UK ? SYFY FHD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/syfy-hd.png" group-title="UK ? DOCUMENTARY",UK ? SYFY FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/594
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SMITHSONIAN CHANNEL FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SMITHSONIANCHANNEL-1.png" group-title="UK ? DOCUMENTARY",UK ? SMITHSONIAN CHANNEL FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/595
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK ? SKY NATURE  FHD" tvg-logo="http://logo.panel.cx/logo/UK/SKY-Nature.png" group-title="UK ? DOCUMENTARY",UK ? SKY NATURE  FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/596
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - DOCUMENTARY SD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? DOCUMENTARY",? UK - DOCUMENTARY SD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/597
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK ? SKY DOCUMENTARIES SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/Sky_Documentaries.png" group-title="UK ? DOCUMENTARY",UK ? SKY DOCUMENTARIES SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/598
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK ? DISCOVERY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" group-title="UK ? DOCUMENTARY",UK ? DISCOVERY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/599
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK ? DISCOVERY HISTORY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" group-title="UK ? DOCUMENTARY",UK ? DISCOVERY HISTORY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/600
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK ? DISCOVERY SCIENCE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" group-title="UK ? DOCUMENTARY",UK ? DISCOVERY SCIENCE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/601
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK ? DISCOVERY TURBO SD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Discovery_Turbo-2.png" group-title="UK ? DOCUMENTARY",UK ? DISCOVERY TURBO SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/602
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK ? NAT GEO SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOGRAPHIC-1.png" group-title="UK ? DOCUMENTARY",UK ? NAT GEO SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/603
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK ? NAT GEO WILD SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOWILD-1.png" group-title="UK ? DOCUMENTARY",UK ? NAT GEO WILD SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/604
+#EXTINF:-1 tvg-id="" tvg-name="UK ? ANIMAL PLANET SD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Animal_Planet.png" group-title="UK ? DOCUMENTARY",UK ? ANIMAL PLANET SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/605
+#EXTINF:-1 tvg-id="" tvg-name="UK ? TRAVEL CHANNEL SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/THETRAVELCHANNEL.png" group-title="UK ? DOCUMENTARY",UK ? TRAVEL CHANNEL SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/606
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK ? CRIME&INVESTIGATION SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="UK ? DOCUMENTARY",UK ? CRIME&INVESTIGATION SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/607
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HISTORY SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORYHD-1.png" group-title="UK ? DOCUMENTARY",UK ? HISTORY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/609
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK ? HISTORY 2 SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORY-2-1.png" group-title="UK ? DOCUMENTARY",UK ? HISTORY 2 SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/610
+#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK ? HORSE AND COUNTRY SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/HORSE-AND-COUNTRY-1.png" group-title="UK ? DOCUMENTARY",UK ? HORSE AND COUNTRY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/611
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK ? INVESTIGATION DISCOVERY (ID) SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/INVESTIGATIONDISCOVERY-1.png" group-title="UK ? DOCUMENTARY",UK ? INVESTIGATION DISCOVERY (ID) SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/612
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PARAMOUNT NETWORK SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PARAMOUNTHD.png" group-title="UK ? DOCUMENTARY",UK ? PARAMOUNT NETWORK SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/614
+#EXTINF:-1 tvg-id="showcase.uk" tvg-name="UK ? SHOWCASE SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SHOWCASE-1.png" group-title="UK ? DOCUMENTARY",UK ? SHOWCASE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/615
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK ? SYFY SD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/syfy-hd.png" group-title="UK ? DOCUMENTARY",UK ? SYFY SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/616
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK ?  SKY NATURE SD" tvg-logo="http://logo.panel.cx/logo/UK/SKY-Nature.png" group-title="UK ? DOCUMENTARY",UK ?  SKY NATURE SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/617
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - KIDS FHD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? KIDS",? UK - KIDS FHD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/618
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK ? CARTOON NETWORK FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CARTOONNETWORK-1.png" group-title="UK ? KIDS",UK ? CARTOON NETWORK FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/619
+#EXTINF:-1 tvg-id="" tvg-name="UK ? DISNEY CHANNEL FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYCHANNEL.png" group-title="UK ? KIDS",UK ? DISNEY CHANNEL FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/620
+#EXTINF:-1 tvg-id="" tvg-name="UK ? DISNEY JUNIOR FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYJUNIOR.png" group-title="UK ? KIDS",UK ? DISNEY JUNIOR FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/621
+#EXTINF:-1 tvg-id="" tvg-name="UK ? DISNEY XD FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYXD.png" group-title="UK ? KIDS",UK ? DISNEY XD FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/622
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK ? NICK FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICK.png" group-title="UK ? KIDS",UK ? NICK FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/623
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK ? CBEEBIES FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CBEEBIES.png" group-title="UK ? KIDS",UK ? CBEEBIES FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/624
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - KIDS SD ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? KIDS",? UK - KIDS SD ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/625
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK ? BABY TV SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BABYTV.png" group-title="UK ? KIDS",UK ? BABY TV SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/626
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK ? BOOMERANG SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BOOMERANG-1.png" group-title="UK ? KIDS",UK ? BOOMERANG SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/627
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK ? CARTOONITO (NOT 24) SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CARTOONITO.png" group-title="UK ? KIDS",UK ? CARTOONITO (NOT 24) SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/628
+#EXTINF:-1 tvg-id="" tvg-name="UK ? DISNEY CHANNEL SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYCHANNEL.png" group-title="UK ? KIDS",UK ? DISNEY CHANNEL SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/630
+#EXTINF:-1 tvg-id="" tvg-name="UK ? DISNEY XD SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/DISNEYXD.png" group-title="UK ? KIDS",UK ? DISNEY XD SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/631
+#EXTINF:-1 tvg-id="" tvg-name="UK ? NICK JR PEPPA SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICKJR.png" group-title="UK ? KIDS",UK ? NICK JR PEPPA SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/632
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK ? NICK JUNIOR SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICKJR.png" group-title="UK ? KIDS",UK ? NICK JUNIOR SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/633
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK ? NICKELODEON SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICK.png" group-title="UK ? KIDS",UK ? NICKELODEON SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/634
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK ? NICKTOONS SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NICK.png" group-title="UK ? KIDS",UK ? NICKTOONS SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/635
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK ? TINY POP SD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/TINYPOP-1.png" group-title="UK ? KIDS",UK ? TINY POP SD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/636
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - MUSIC ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? MUSIC",? UK - MUSIC ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/637
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK ? MTV" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/638
+#EXTINF:-1 tvg-id="mtvlive.uk" tvg-name="UK ? MTV LIVE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV LIVE
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/639
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="UK ? CLUBLAND" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CLUBLAND-1.png" group-title="UK ? MUSIC",UK ? CLUBLAND
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/641
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK ? KERRANG" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/KERRANG-1.png" group-title="UK ? MUSIC",UK ? KERRANG
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/642
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="UK ? KISS TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/KISS-TV-1.png" group-title="UK ? MUSIC",UK ? KISS TV
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/643
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK ? MAGIC" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/MAGIC-1.png" group-title="UK ? MUSIC",UK ? MAGIC
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/644
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK ? MTV BASE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV BASE
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/645
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK ? MTV CLASSIC" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV CLASSIC
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/646
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK ? MTV HITS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV HITS
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/647
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK ? MTV MUSIC" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV MUSIC
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/648
+#EXTINF:-1 tvg-id="tvone.uk" tvg-name="UK ? MTV ONE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV ONE
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/649
+#EXTINF:-1 tvg-id="mtvlive.uk" tvg-name="UK ? MTV LIVE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="UK ? MUSIC",UK ? MTV LIVE
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/650
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK ? NOW 80S" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NOW-80s-1.png" group-title="UK ? MUSIC",UK ? NOW 80S
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/651
+#EXTINF:-1 tvg-id="" tvg-name="UK ? NOW MUSIC" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NOW-90s-1.png" group-title="UK ? MUSIC",UK ? NOW MUSIC
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/652
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK ? POP" tvg-logo="http://logo.panel.cx/logo/UK/POP1.png" group-title="UK ? MUSIC",UK ? POP
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/653
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK ? POP MAX" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/POPMAX-1.png" group-title="UK ? MUSIC",UK ? POP MAX
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/654
+#EXTINF:-1 tvg-id="now70s.uk" tvg-name="UK ? NOW 70'S" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/NOW-80s-1.png" group-title="UK ? MUSIC",UK ? NOW 70'S
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/656
+#EXTINF:-1 tvg-id="thebox.uk" tvg-name="UK ? THE BOX" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/THE-BOX-1.png" group-title="UK ? MUSIC",UK ? THE BOX
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/657
+#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="UK ? TRACE URBAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/CANAL+/TRACEURBAN.png" group-title="UK ? MUSIC",UK ? TRACE URBAN
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/659
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC TODDLER TUNES" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC TODDLER TUNES
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/661
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC TODAYS COUNTRY" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC TODAYS COUNTRY
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/662
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC THROWBACK JAMZ" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC THROWBACK JAMZ
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/663
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC ROCK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC ROCK
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/664
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC RAP 2K" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC RAP 2K
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/665
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC RAP" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC RAP
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/666
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC R&B SOUL" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC R&B SOUL
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/667
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC R&B" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC R&B
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/668
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC POP LATINO" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC POP LATINO
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/669
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC POP HITS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC POP HITS
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/670
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC POP & COUNTRY" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC POP & COUNTRY
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/671
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC MEXICANA" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC MEXICANA
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/672
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC METAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC METAL
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/673
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC KIDZ ONLY!" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC KIDZ ONLY!
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/674
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC HIT LIST" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC HIT LIST
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/675
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC HIP-HOP AND R&B" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC HIP-HOP AND R&B
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/676
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC DANCE/ EDM" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC DANCE/ EDM
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/677
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC ALTERNATIVE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC ALTERNATIVE
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/678
+#EXTINF:-1 tvg-id="" tvg-name="UK ? MC MUSIC 90S" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MUSICCHOISE.png" group-title="UK ? MUSIC",UK ? MC MUSIC 90S
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/679
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="? UK - PPV ?" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_usa.png" group-title="UK ? PPV EVENTS",? UK - PPV ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/680
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PPV 1 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? PPV 1 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/681
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PPV 2 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? PPV 2 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/682
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PPV 3 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? PPV 3 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/683
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PPV 4 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? PPV 4 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/684
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PPV 5 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? PPV 5 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/685
+#EXTINF:-1 tvg-id="" tvg-name="UK ? PPV 6 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? PPV 6 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/686
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="? UK - BT SPORTS EXTRA ?" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/UK.png" group-title="UK ? PPV EVENTS",? UK - BT SPORTS EXTRA ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/688
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="UK ? BT SPORTS EXTRA 1" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-1.png" group-title="UK ? PPV EVENTS",UK ? BT SPORTS EXTRA 1
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/689
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="UK ? BT SPORTS EXTRA 2" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-2.png" group-title="UK ? PPV EVENTS",UK ? BT SPORTS EXTRA 2
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/690
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK ? BT SPORTS EXTRA 3" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-3.png" group-title="UK ? PPV EVENTS",UK ? BT SPORTS EXTRA 3
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/691
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="UK ? BT SPORTS EXTRA 4" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-4.png" group-title="UK ? PPV EVENTS",UK ? BT SPORTS EXTRA 4
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/692
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="UK ? BT SPORTS EXTRA 5 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-5.png" group-title="UK ? PPV EVENTS",UK ? BT SPORTS EXTRA 5 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/693
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="UK ? BT SPORTS EXTRA 6 (LIVE EVENTS)" tvg-logo="http://logo.panel.cx/logo/UK/bt_sport_extra-6.png" group-title="UK ? PPV EVENTS",UK ? BT SPORTS EXTRA 6 (LIVE EVENTS)
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/694
+#EXTINF:-1 tvg-id="bbcredbutton1.uk" tvg-name="? UK - BBC RED BUTTON ?" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",? UK - BBC RED BUTTON ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/695
+#EXTINF:-1 tvg-id="bbcredbutton1.uk" tvg-name="UK ? BBC RED BUTTON HD 1" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 1
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/696
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 2" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 2
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/697
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 3" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 3
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/698
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 4" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 4
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/699
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 5" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 5
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/700
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 6" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 6
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/701
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 7" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 7
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/702
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 8" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 8
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/703
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 9" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 9
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/704
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 10" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 10
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/705
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 11" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 11
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/706
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 13" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 13
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/707
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 12" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 12
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/708
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 14" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 14
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/709
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 15" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 15
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/710
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 16" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 16
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/711
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 17" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 17
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/712
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 18" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 18
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/713
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 19" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 19
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/714
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 20" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 20
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/715
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 21" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 21
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/716
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 22" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 22
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/717
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 23" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 23
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/718
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 24" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 24
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/719
+#EXTINF:-1 tvg-id="" tvg-name="UK ? BBC RED BUTTON HD 25" tvg-logo="http://logo.panel.cx/logo/UK/BBCREDONE.png" group-title="UK ? PPV EVENTS",UK ? BBC RED BUTTON HD 25
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/720
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 1 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 1 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157015
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 2 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 2 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157017
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 3 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 3 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157019
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 4 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 4 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157021
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 5 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 5 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157023
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 6 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 6 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157025
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 7 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 7 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157027
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 8 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 8 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157029
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 9 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 9 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157031
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 10 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 10 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157033
+#EXTINF:-1 tvg-id="" tvg-name="UK ? HUB PREMIER 11 FHD" tvg-logo="http://logo.panel.cx/logo/UK/hub.premier.png" group-title="UK ? PPV EVENTS",UK ? HUB PREMIER 11 FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/157035
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 1 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 1 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182053
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 2 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 2 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182055
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 3 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 3 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182057
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 4 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 4 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182059
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 5 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 5 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182061
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 6 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 6 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182063
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 7 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 7 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182065
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 8 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 8 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182067
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 9 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 9 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182069
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 10 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 10 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182071
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 11 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 11 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182073
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 12 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 12 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182075
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 13 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 13 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182077
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 14 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 14 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182079
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 15 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 15 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182081
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 16 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 16 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182083
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 17 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 17 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182085
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 18 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 18 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182087
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 19 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 19 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182089
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 20 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 20 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182091
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 21 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 21 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182093
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 22 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 22 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182095
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 23 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 23 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182097
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 24 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 24 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182099
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 25 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 25 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182101
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 26 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 26 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182103
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 27 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 27 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182105
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 28 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 28 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182107
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 29 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 29 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182109
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 30 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 30 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182111
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 31 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 31 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182113
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 32 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 32 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182115
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 33 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 33 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182117
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 34 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 34 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182119
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 35 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 35 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182121
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 36 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 36 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182123
+#EXTINF:-1 tvg-id="" tvg-name="UK ? VIAPLAY 37 PPV HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/viaplay.png" group-title="UK ? PPV EVENTS",UK ? VIAPLAY 37 PPV HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/182125
+#EXTINF:-1 tvg-id="" tvg-name="UK ? SMITHSONIAN CHANNEL FHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/SMITHSONIANCHANNEL-1.png" group-title="UK ? DOCUMENTARY",UK ? SMITHSONIAN CHANNEL FHD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/595
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US ? SMITHSONIAN HD EAST" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/smithsonian-.png" group-title="US ? ENTER",US ? SMITHSONIAN HD EAST
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/95450
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US ? SMITHSONIAN HD WEST" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/smithsonian-.png" group-title="US ? ENTER",US ? SMITHSONIAN HD WEST
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/95451
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-1ENG.png" group-title="BEIN SPORTS ?",BEIN SPORTS 1 ENGLISH
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1003
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS 2 ENGLISH" tvg-logo="http://logo.panel.cx/logo/BEIN/BEINFHD/BEIN-ENG2.png" group-title="BEIN SPORTS ?",BEIN SPORTS 2 ENGLISH
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1004
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BEIN SPORTS 3 ENGLISH" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-3ENG.png" group-title="BEIN SPORTS ?",BEIN SPORTS 3 ENGLISH
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1005
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-1HDENG.png" group-title="BEIN SPORTS ? HD",BEIN SPORTS 1 ENGLISH HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1027
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS 2 ENGLISH HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-2HDENG.png" group-title="BEIN SPORTS ? HD",BEIN SPORTS 2 ENGLISH HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1028
+#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="BEIN SPORTS 3 ENGLISH HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-3HDENG.png" group-title="BEIN SPORTS ? HD",BEIN SPORTS 3 ENGLISH HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1029
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH 4K" tvg-logo="http://logo.panel.cx/logo/BEIN/Beinsports-4k/beIN_SPORTS1_ENGLISH.1.4k.png" group-title="BEIN SPORTS ? 4K",BEIN SPORTS 1 ENGLISH 4K
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1053
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS 2 ENGLISH 4K" tvg-logo="http://logo.panel.cx/logo/BEIN/Beinsports-4k/bein-sports-english-2.4k.png" group-title="BEIN SPORTS ? 4K",BEIN SPORTS 2 ENGLISH 4K
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1054
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BEIN SPORTS 3 ENGLISH 4K" tvg-logo="http://logo.panel.cx/logo/BEIN/Beinsports-4k/bein-sports-english-3.4k.png" group-title="BEIN SPORTS ? 4K",BEIN SPORTS 3 ENGLISH 4K
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/1055
+#EXTINF:-1 tvg-id="" tvg-name="? AF ? SPORT ?" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",? AF ? SPORT ?
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132663
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT VARIETY 1 HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT VARIETY 1 HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132665
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT VARIETY 2 HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT VARIETY 2 HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132667
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT VARIETY 3 HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT VARIETY 3 HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132669
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT VARIETY 4 HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT VARIETY 4 HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132671
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT FOOTBALL HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT FOOTBALL HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132673
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT PREMIER LEAGUE HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132675
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT LA LIGA HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT LA LIGA HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132677
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT FOOTBALL PLUS HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT FOOTBALL PLUS HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132679
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT TENNIS HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT TENNIS HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132681
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT RUGBY HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT RUGBY HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132683
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT CRICKET HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT CRICKET HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132685
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT GOLF HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT GOLF HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132687
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT MOTOSPORT HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT MOTOSPORT HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132689
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT EVENTS HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT EVENTS HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132691
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT BLITZ HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT BLITZ HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132693
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT MAXIMO 1" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT MAXIMO 1
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132695
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT PLAY HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT PLAY HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132697
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT GRANDSTAND HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT GRANDSTAND HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132699
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT PSL HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT PSL HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132701
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ? SUPERSPORT ACTION HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/SOUTH-AFRICA/s.png" group-title="AF ? SPORT",SPORT ? SUPERSPORT ACTION HD
+http://maxzi.pro:80/S78Y74Y65J92E3/CSYAARWBFRHFMBJS/132703
+
+
